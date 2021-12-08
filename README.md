@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rustyswift
 - 👀 I’m interested in reactive, functional, declarative programming
 - 🌱 I’m currently learning Rust language
-- 💞️ I’m looking to collaborate on libs and frameworks on Swift
+- 💞️ I’m looking to collaborate on re-writing Dasher-iOS to something like Consumer-iOS or better :-), making educational materials for Swift   
 - 📫 Reach me out rostyslav.kobyzskyi@doordash.com, kobizsky@gmail.com
