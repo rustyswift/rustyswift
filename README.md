@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @rustyswift
+- 👀 I’m interested in reactive, functional, declarative programming
+- 🌱 I’m currently learning Rust language
+- 💞️ I’m looking to collaborate on libs and frameworks on Swift
+- 📫 Reach me out rostyslav.kobyzskyi@doordash.com, kobizsky@gmail.com
